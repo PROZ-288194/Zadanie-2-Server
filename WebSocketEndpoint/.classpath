@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/java-8-openjdk-amd64">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/obalcevi/eclipse-workspace/WebSocketEndpoint/lib/tyrus-spi-1.3.jar"/>
+	<classpathentry kind="lib" path="/home/obalcevi/eclipse-workspace/WebSocketEndpoint/lib/tyrus-core-1.3.jar"/>
+	<classpathentry kind="lib" path="/home/obalcevi/eclipse-workspace/WebSocketEndpoint/lib/tyrus-client-1.3.jar"/>
+	<classpathentry kind="lib" path="/home/obalcevi/eclipse-workspace/WebSocketEndpoint/lib/javax.websocket-api-1.0.jar"/>
+	<classpathentry kind="lib" path="/home/obalcevi/eclipse-workspace/WebSocketEndpoint/lib/tyrus-container-grizzly-client-1.3.jar"/>
+	<classpathentry kind="lib" path="/home/obalcevi/eclipse-workspace/WebSocketEndpoint/lib/grizzly-http-server-2.3.7.jar"/>
+	<classpathentry kind="lib" path="/home/obalcevi/eclipse-workspace/WebSocketEndpoint/lib/grizzly-http-2.3.7.jar"/>
+	<classpathentry kind="lib" path="/home/obalcevi/eclipse-workspace/WebSocketEndpoint/lib/grizzly-framework-2.3.7.jar"/>
+	<classpathentry kind="lib" path="/home/obalcevi/eclipse-workspace/WebSocketEndpoint/lib/weld-osgi-bundle.jar"/>
+	<classpathentry kind="lib" path="/home/obalcevi/eclipse-workspace/WebSocketEndpoint/lib/javaee.jar"/>
+	<classpathentry kind="lib" path="/home/obalcevi/eclipse-workspace/WebSocketEndpoint/lib/javax.interceptor-api-1.2.jar"/>
+	<classpathentry kind="lib" path="/home/obalcevi/eclipse-workspace/WebSocketEndpoint/lib/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="/home/obalcevi/eclipse-workspace/WebSocketEndpoint/lib/javax.el-api-3.0.0.jar"/>
+	<classpathentry kind="lib" path="/home/obalcevi/eclipse-workspace/WebSocketEndpoint/lib/cdi-api-2.0.Beta1.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
